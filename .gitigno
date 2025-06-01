@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# dotenv secret files
+.env
+
+# build output
+dist
+build
+
+# system files
+.DS_Store

@@ -1,0 +1,51 @@
+body{
+  
+  background-image:url("./Image.jpeg");
+  background-size:cover;
+  background-attachment:fixed;
+  position:relative;
+  background-repeat:no-repeat;
+  width:100vw;
+  height:100vh;
+  background-position:center;
+  text-align:center;
+  
+  
+}
+.jarvis{
+  color:transparent;
+  font-size:20px;
+  font-weight:bold;
+  background: linear-gradient(to right ,#ffffff, #fefb41);
+  position:absolute;
+  background-clip:text;
+  margin-top:80vh;
+  left:50%;
+  transform:translateX(-50%);
+  
+}
+.gif{
+  width:90vw;
+  height:30px;
+  background-clip:text;
+  position:absolute;
+  margin-top:70vh;
+  left:50%;
+  transform:translateX(-50%);
+  border-radius:10px;
+  
+}
+.input{
+  width:50vw;
+  height:30px;
+  position:absolute;
+  margin-top:20vh;
+  text-align:center;
+  border-radius:10px;
+  border:none;
+  text-transform:capitalize;
+  font-size:20px;
+  left:50%;
+  transform:translateX(-50%);
+  background:linear-gradient(to right,#0061fe,#e63b7a);
+}

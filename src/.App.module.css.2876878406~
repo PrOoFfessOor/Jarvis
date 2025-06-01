@@ -1,0 +1,29 @@
+body{
+  
+  background-image:url("./Image.jpeg");
+  background-size:cover;
+  background-attachment:fixed;
+  position:relative;
+  background-repeat:no-repeat;
+  width:100vw;
+  height:100vh;
+  background-position:center;
+  text-align:center;
+  
+  
+}
+.jarvis{
+  color:transparent;
+  font-size:20px;
+  font-weight:bold;
+  background: linear-gradient(to right ,#ffffff, #fefb41);
+  position:absolute;
+  background-clip:text;
+  margin-top:80vh;
+  left:50%;
+  transform:translateX(-50%);
+  
+}
+.gif{
+  
+}
