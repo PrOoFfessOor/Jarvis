@@ -26,7 +26,7 @@ function App() {
 
   const data = async (promptText) => {
     try {
-      const url = "https://6c7344b8-8b84-4d2e-a90f-f6b4807b6355-00-1deuo2nb7uq8m.sisko.replit.dev:5000/ask"; // 🔁 Update this with real URL
+      const url = "https://jarvis-2tci.onrender.com"; // 🔁 Update this with real URL
       const response = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
